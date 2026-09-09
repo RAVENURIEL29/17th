@@ -514,11 +514,12 @@ img{
 
 .hamburger {
     display: block;
-    font-size: 50px;
+    font-size: 40px;
     color: #3d3935;
     cursor: pointer;
     z-index: 1001;
-    margin-right: 5vw;
+    margin-right: 7vw;
+    margin-top: 3vw;
 }
 
 nav {
@@ -571,6 +572,7 @@ nav ul a {
 
     #body1 p {
         font-size: 12px;
+        color: white;
         margin-left: 5vw;
         margin-right: 5vw;
     }
@@ -579,6 +581,8 @@ nav ul a {
         font-size: 13px;
         margin-left: 5vw;
         padding: 8px 12px;
+        display: inline-block;
+        margin-top: 2vw;
     }
    
     #grid {
@@ -599,7 +603,7 @@ nav ul a {
         width: 15vw;
         height: 15vw;
         margin-left: 4vw;
-        margin-top: 4vw;
+        margin-top: 6vw;
     }
 
     #jpeg {
@@ -620,6 +624,8 @@ nav ul a {
         font-size: 10px;
         margin-left: 23vw;
         padding: 5px 15px;
+        display: inline-block;
+        margin-top: 1vw;
     }
 
     #feat {
@@ -707,6 +713,7 @@ nav ul a {
 
     #ton {
         font-size: 11px;
+        margin-top: 2vw;
     }
 
     #h5 {
