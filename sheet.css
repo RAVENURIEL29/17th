@@ -13,6 +13,7 @@ form {
     border: 1px solid #d8cfc3;
     padding: 30px;
     background-color: #faf8f4;
+    margin-top: 5vw;
 }
 
 .sign {
@@ -104,6 +105,7 @@ button:hover {
     .sign3 {
         max-width: 600px;
         padding: 25px;
+        margin-top: 5vw;
     }
 
     .sign,
@@ -146,6 +148,7 @@ button:hover {
         width: auto;
         max-width: 100%;
         padding: 15px;
+        margin-top: 25vw;
     }
 
     .sign,

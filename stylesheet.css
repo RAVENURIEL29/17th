@@ -13,6 +13,7 @@ body {
 #head1 {
     text-align: center;
     padding: 7vw 5vw 5vw;
+    margin-top: 5vw;
 }
 
 #head1 p:first-child {
@@ -207,6 +208,7 @@ body {
 
     #head1 {
         padding: 8vw 5vw 6vw;
+        margin-top: 5vw;
     }
 
     #head1 p:nth-child(2) {
@@ -310,6 +312,7 @@ body {
 
     #head1 {
         padding: 12vw 6vw 8vw;
+        margin-top: 15vw;
     }
 
     #head1 p:first-child {
